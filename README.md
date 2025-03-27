@@ -1,7 +1,5 @@
 FizzBuzz Challenge
-
 question creator: MohammadHossein Hashemi
-
 
 
 Project Details
