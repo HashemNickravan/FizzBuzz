@@ -5,7 +5,9 @@ question creator: MohammadHossein Hashemi
 Project Details
 
 Submission Date: 1404/01/3
+
 Student: Hashem Nickravan
+
 Section: Sixth weekly trains in quera
 
 A simple and classic FizzBuzz problem in Java.
